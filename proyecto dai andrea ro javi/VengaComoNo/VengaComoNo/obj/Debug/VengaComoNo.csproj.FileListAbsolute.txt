@@ -1,0 +1,115 @@
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe.config
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csprojResolveAssemblyReference.cache
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\App.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.cache
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.lref
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.pdb
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.g.resources
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.Properties.Resources.resources
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.GenerateResource.Cache
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.exe
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.pdb
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.baml
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe.config
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.exe
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.pdb
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.pdb
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csprojResolveAssemblyReference.cache
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.g.cs
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.g.cs
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.g.cs
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\App.g.cs
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.cache
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.lref
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.baml
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.baml
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.baml
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.g.resources
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.Properties.Resources.resources
+E:\Proyecto dai\ProyectoRetasAndyRoJavi\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.GenerateResource.Cache
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.baml
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.g.cs
+C:\Users\RAGUADOV\Desktop\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe.config
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.exe
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.pdb
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csprojResolveAssemblyReference.cache
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\App.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.cache
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.lref
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.pdb
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.baml
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.g.resources
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.Properties.Resources.resources
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.GenerateResource.Cache
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.g.cs
+E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe.config
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.pdb
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csprojAssemblyReference.cache
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\App.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.cache
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.lref
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.g.resources
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.Properties.Resources.resources
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.GenerateResource.cache
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.CoreCompileInputs.cache
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.exe
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.pdb
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.baml
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\menu.g.cs
+D:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\menu.baml
