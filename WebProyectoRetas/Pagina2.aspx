@@ -16,7 +16,7 @@
         ¿Que deseas hacer?<br />
         <asp:RadioButton ID="rbInscribir" runat="server" OnCheckedChanged="RadioButton1_CheckedChanged" Text="Inscribirme a una reta." />
         <br />
-        <asp:RadioButton ID="rbAdministrar" runat="server" Text="Administrar mis retas." />
+        <asp:RadioButton ID="rbAdministrar" runat="server" Text="Administrar mis retas." OnCheckedChanged="rbAdministrar_CheckedChanged" />
         <br />
         <br />
         <asp:Button ID="btListo" runat="server" Text="¡Listo!" OnClick="Button1_Click" />

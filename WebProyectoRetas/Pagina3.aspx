@@ -14,19 +14,25 @@
         <br />
         <asp:Label ID="Label1" runat="server" Text="Deporte:"></asp:Label>
         <br />
-        <asp:DropDownList ID="ddlDeportes" runat="server" OnSelectedIndexChanged="ddlDeportes_SelectedIndexChanged">
+        <asp:DropDownList ID="ddlDeportes" runat="server" OnSelectedIndexChanged="ddlDeportes_SelectedIndexChanged" AutoPostBack="True">
         </asp:DropDownList>
         <br />
         <br />
-        <asp:Button ID="btBuscar" runat="server" Text="Buscar" />
+        <asp:Button ID="btBuscar" runat="server" Text="Buscar" OnClick="btBuscar_Click" />
+        <br />
+        <asp:GridView ID="gridDeporte" runat="server">
+        </asp:GridView>
         <br />
         <br />
-        <asp:Table ID="tbBusca" runat="server">
-        </asp:Table>
-        <br />
-        <asp:Label ID="lbAux" runat="server" Text="-"></asp:Label>
-        <asp:Button ID="btNueva" runat="server" Text="Nueva reta" OnClick="btNueva_Click" />
+        <asp:Label ID="lbAux" runat="server"></asp:Label>
         <asp:Label ID="Label2" runat="server" Text=" "></asp:Label>
+        <br />
+        <br />
+        Ingresa el id de la reta a la que quieras registrate<asp:TextBox ID="txtId" runat="server"></asp:TextBox>
+        <br />
+        <asp:Button ID="btNueva" runat="server" Text="Resgistrate en la reta" OnClick="btNueva_Click" />
+        <br />
+        <asp:Label ID="lbaviso" runat="server"></asp:Label>
     </div>
     </form>
 </body>

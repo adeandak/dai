@@ -11,7 +11,7 @@ public partial class Pagina3 : System.Web.UI.Page
     protected OdbcConnection conectarBD()
     {
         OdbcConnection res;
-        String stringConexion = "Driver={SQL Server Native Client 11.0};Server=DESKTOP-DO4J10F;Uid=sa;Pwd=sqladmin;Database=WebRetas"; //solo cambia la maquina
+        String stringConexion = "Driver={SQL Server Native Client 11.0};Server=DESKTOP-DO4J10F;Uid=sa;Pwd=sqladmin;Database=Retas"; //solo cambia la maquina
         try
         {
             OdbcConnection conexion = new OdbcConnection(stringConexion);
@@ -55,6 +55,50 @@ public partial class Pagina3 : System.Web.UI.Page
 
     protected void btNueva_Click(object sender, EventArgs e)
     {
-        Response.Redirect("Pagina6.aspx");
+        OdbcConnection con = conectarBD();
+        if(con != null)
+        {
+           try
+            {
+
+                OdbcCommand cmd = new OdbcCommand("insert into juega values('" + Session["cu"].ToString() + "','" + Int16.Parse(txtId.Text) + "')  ", con);
+                cmd.ExecuteNonQuery();
+
+                OdbcCommand cmd2 = new OdbcCommand("update reta set numParticipantes =numParticipantes+1 where idReta='"+txtId.Text+"'    ",con);
+                cmd2.ExecuteNonQuery();
+
+
+                lbaviso.Text = "has sido agregado a la reta";
+                con.Close();
+            }
+            catch(Exception ex)
+            {
+                lbaviso.Text = "no se pudo agregar";
+            }
+        }
+    }
+
+    protected void btBuscar_Click(object sender, EventArgs e)
+    {
+        OdbcConnection con = conectarBD();
+        if (con != null)
+        {
+            String var1 = ddlDeportes.SelectedValue;
+            
+            OdbcCommand cmd = new OdbcCommand("select idDeporte from deporte where deporte.nombre='" + var1 + "' ", con);
+            OdbcDataReader rd = cmd.ExecuteReader();
+            rd.Read();
+            int claveDeporte = rd.GetInt16(0);
+            OdbcCommand cmd2 = new OdbcCommand("select idReta, numParticipantes, hora, fecha, lugar  from reta where idDeporte='"+claveDeporte+"' " , con);
+            OdbcDataReader rd2 = cmd2.ExecuteReader();
+            gridDeporte.DataSource = rd2;
+            gridDeporte.DataBind();
+            rd.Close();
+            rd2.Close();
+
+        }
+        else
+            lbAux.Text = "error de conexion";
+            
     }
 }

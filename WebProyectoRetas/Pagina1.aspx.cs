@@ -11,7 +11,7 @@ public partial class Pagina1 : System.Web.UI.Page
     protected OdbcConnection conectarBD()
     {
         OdbcConnection res;
-        String stringConexion = "Driver={SQL Server Native Client 11.0};Server=DESKTOP-DO4J10F;Uid=sa;Pwd=sqladmin;Database=WebRetas"; //solo cambia la maquina
+        String stringConexion = "Driver={SQL Server Native Client 11.0};Server=DESKTOP-DO4J10F;Uid=sa;Pwd=sqladmin;Database=Retas"; //solo cambia la maquina
         try
         {
             OdbcConnection conexion = new OdbcConnection(stringConexion);
@@ -44,7 +44,7 @@ public partial class Pagina1 : System.Web.UI.Page
             if (rd.HasRows)
             {
                 rd.Read();
-                Session["cu"] = rd.GetString(0);
+                Session["cu"] = rd.GetString(0).ToString();
                 lbAux.Text = "Exito amigos";
                 Response.Redirect("Pagina2.aspx"); //COMANDO PARA LLAMAR A LA SIGUIENTE PAGINA
             }

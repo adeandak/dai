@@ -17,8 +17,7 @@ namespace VengaComoNo
             SqlConnection cnn;
             try
             {
-
-                cnn = new SqlConnection("Data Source=112SALAS06;Initial Catalog=retas;Persist Security Info=True;User ID=sa;Password=sqladmin");
+                cnn = new SqlConnection("Data Source=DESKTOP-DO4J10F;Initial Catalog=retas;Persist Security Info=True;User ID=sa;Password=sqladmin");
                 cnn.Open();
                 MessageBox.Show("conectado");
             }
@@ -28,8 +27,6 @@ namespace VengaComoNo
                 MessageBox.Show("no se pudo conectar" + ex);
             }
             return cnn;
-       
-
         }
     }
 }

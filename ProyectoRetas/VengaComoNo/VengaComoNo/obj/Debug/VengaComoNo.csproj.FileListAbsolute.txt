@@ -117,3 +117,40 @@ E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.g
 E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\menu.g.cs
 E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.baml
 E:\proyecto dai andrea ro javi\VengaComoNo\VengaComoNo\obj\Debug\menu.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe.config
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.exe
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\bin\Debug\VengaComoNo.pdb
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csprojAssemblyReference.cache
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\menu.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\App.g.cs
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.cache
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo_MarkupCompile.lref
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaPatrocinadores.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaProducto.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\altaRegistro.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\bajaPatrociador.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaPatrocinador.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaRegistro.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\eliminaProducto.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\MainWindow.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\modificaPat.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\buscaProducto.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\modificaProducto.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\menu.baml
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.g.resources
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.Properties.Resources.resources
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.GenerateResource.cache
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.csproj.CoreCompileInputs.cache
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.exe
+C:\Users\adean\Desktop\dai\ProyectoRetas\VengaComoNo\VengaComoNo\obj\Debug\VengaComoNo.pdb

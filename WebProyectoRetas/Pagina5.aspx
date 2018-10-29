@@ -10,11 +10,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:Label ID="Label1" runat="server" Text="Favor de ingresar los siguientes datos:"></asp:Label>
-    
+        Para registrarte ingresa los siguientes datos<br />
         <br />
-        <br />
-        <asp:Label ID="Label2" runat="server" Text="Usuario"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="Nombre de usuario"></asp:Label>
 &nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="txUsuario" runat="server"></asp:TextBox>
         <br />
@@ -24,10 +22,12 @@
     
         <br />
         <br />
-        <asp:Button ID="txRegistro" runat="server" Text="¡Registrate!" />
+        <asp:Button ID="txRegistro" runat="server" Text="¡Registrate!" OnClick="txRegistro_Click" />
     
         <br />
         <asp:Label ID="lbAux" runat="server" Text=" "></asp:Label>
+    
+        <asp:Label ID="lbCon" runat="server"></asp:Label>
     
     </div>
     </form>

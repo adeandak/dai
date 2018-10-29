@@ -11,16 +11,19 @@
     <form id="form1" runat="server">
     <div>
         Estás inscrito a las siguientes retas:<br />
-        <asp:Table ID="tbBusca" runat="server">
-        </asp:Table>
+        <asp:GridView ID="GridDatos" runat="server" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
+        </asp:GridView>
+        <asp:Label ID="lbCon" runat="server"></asp:Label>
         <br />
-        En caso de no poder participar en alguna reta, introduce el id de la reta aquí:<br />
-&nbsp;<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <br />
-        <asp:Button ID="btAceptar" runat="server" Text="Aceptar" />
+&nbsp;Escribe el id de la reta que desees eliminar<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <br />
+        <asp:Button ID="bteliminar" runat="server" Text="Elimina Reta" OnClick="bteliminar_Click" />
         <br />
         <br />
         <asp:Label ID="lbAux" runat="server" Text=" "></asp:Label>
+        Modifica retas
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Modifica Retas" />
     </div>
     </form>
 </body>

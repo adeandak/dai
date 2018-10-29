@@ -9,7 +9,7 @@ public partial class Pagina2 : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+      
     }
 
     protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
@@ -29,5 +29,10 @@ public partial class Pagina2 : System.Web.UI.Page
             if (rbInscribir.Checked)
                 Response.Redirect("Pagina3.aspx");
         }
+    }
+
+    protected void rbAdministrar_CheckedChanged(object sender, EventArgs e)
+    {
+
     }
 }
