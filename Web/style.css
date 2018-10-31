@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: url('img1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.box h2{
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.box h1{
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.box h4 {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.texto {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.box {
+    width:40%;
+    text-align: center;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background: linear-gradient(#229954, #1E8449 );
+    box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+
+
+.inputBtn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+ 
